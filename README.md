@@ -1,5 +1,5 @@
 <h1 align="center">NAMASTE, I'M ASHUTOSH MAHARJAN</h1>
-<h3 align="center"PASSIONATE BACKEND DEVELOPER FROM NEPAL</h3>
+<h3 align="center">PASSIONATE BACKEND DEVELOPER FROM NEPAL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordzord666&label=Profile%20views&color=0e75b6&style=flat" alt="lordzord666" /> </p>
 
