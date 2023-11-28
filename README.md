@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **myself and finding a job**
 
-- 🌱 I’m currently learning **Android Development in JAVA Native**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Python, Django, vue js, tailwind css,Android Development**
 
