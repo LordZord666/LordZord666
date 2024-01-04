@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashutoshmaharjan09@gmail.com**
 
-- ⚡ Fun fact **I'm a vocalist, musician and an entertainer.**
+- ⚡ Fun fact **I'm a vocalist, musician but still a passinate programmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
