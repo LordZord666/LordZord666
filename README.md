@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **myself and finding a job**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **GenAI**
 
 - 💬 Ask me about **Python, Django, vue js, tailwind css,Android Development**
 
 - 📫 How to reach me **ashutoshmaharjan09@gmail.com**
 
-- ⚡ Fun fact **I'm a vocalist, musician but still a passionate programmer.**
+- ⚡ Fun fact **I'm a musician but still a passionate programmer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
